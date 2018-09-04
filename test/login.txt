@@ -7,3 +7,5 @@ num3 = 300
 num4 = 400
 
 result = num1 + num2
+
+result2 = num3 + num4
